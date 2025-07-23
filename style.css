@@ -1,0 +1,26 @@
+body{
+background-color: #2d2d2d;
+color: white;
+text-align: center;
+}
+
+h1{
+    color: #4a9eff;
+}
+
+input{
+    padding: 10px;
+    border-radius: 15%;
+}
+
+button{
+    color:white;
+    background-color: blue;
+}
+
+.colognes{
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15%;
+}
